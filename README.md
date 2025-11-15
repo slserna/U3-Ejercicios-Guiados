@@ -1,9 +1,12 @@
 # ✨ U3-Ejercicios-Guiados ✨
+## Estructura de datos 
+# ➩➪➫➬➭➮➯➱⇧
+### tercera unidad ⚜
 ## GTID141
 ### ✡ Serna Rodriguez Sara Lizbeth ✡
 ### Num Control : 1224100715
 ### Contacto : 1224100715.slsr@gmail.com
-### tercera unidad ⚜
+
 
 ➺[EJERCICIOS GUIADOS](https://github.com/slserna/U3-Ejercicios-Guiados) ⚜
 
