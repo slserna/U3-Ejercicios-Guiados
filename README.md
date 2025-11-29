@@ -16,6 +16,8 @@
 | U3ACT1 |Ejercicio Swing  | [Ver ejercicio](https://github.com/slserna/U3-Ejercicios-Guiados/blob/main/Practica_Swing.pdf)|
 | U3ACT2 |Ejercicio conceptos de arbol  | [Ver ejercicio](https://github.com/slserna/U3-Ejercicios-Guiados/blob/main/conceptos%20de%20arbol.pdf)|
 | U3EJER02 |Árbol Binario |  [Ver ejercicio](https://github.com/slserna/U3-Ejercicios-Guiados/blob/main/Ejercicios%20de%20purebas%20en%20libreta.jpeg)|
+| U3EJER03 |Nearpod de Conjunto |  [Ver ejercicio](https://github.com/slserna/U3-Ejercicios-Guiados/blob/main/Nearpod_Conjunto.pdf)|
+| U3EJER03 |Nearpod de Árbol |  [Ver ejercicio](https://github.com/slserna/U3-Ejercicios-Guiados/blob/main/Nearpod_Arbol.pdf)|
       
 
 
