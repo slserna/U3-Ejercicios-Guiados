@@ -18,6 +18,8 @@
 | U3EJER02 |Árbol Binario |  [Ver ejercicio](https://github.com/slserna/U3-Ejercicios-Guiados/blob/main/Ejercicios%20de%20purebas%20en%20libreta.jpeg)|
 | U3EJER03 |Nearpod de Conjunto |  [Ver ejercicio](https://github.com/slserna/U3-Ejercicios-Guiados/blob/main/Nearpod_Conjunto.pdf)|
 | U3EJER03 |Nearpod de Árbol |  [Ver ejercicio](https://github.com/slserna/U3-Ejercicios-Guiados/blob/main/Nearpod_Arbol.pdf)|
+| U3EJER03 |Nearpod de Diccionario |  [Ver ejercicio](https://github.com/slserna/U3-Ejercicios-Guiados/blob/main/Nearpod_Diccionarios.pdf)|
+| U3EJER04 |Mapa Mental |  [Ver ejercicio](https://github.com/slserna/U3-Ejercicios-Guiados/blob/main/MapaMental.pdf)|
       
 
 
